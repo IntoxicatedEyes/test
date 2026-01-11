@@ -1,0 +1,4 @@
+*.tr
+venv
+trash2.txt
+test/
